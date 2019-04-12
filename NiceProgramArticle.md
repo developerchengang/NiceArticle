@@ -7,4 +7,3 @@
 ## thread
 
 - [A gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
-
