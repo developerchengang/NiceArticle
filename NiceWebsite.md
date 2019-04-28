@@ -9,3 +9,4 @@
 ## Interesting
 
 - [Wayback Machine](https://archive.org/web/) 一个庞大的网页数字档案库，为全世界的网页存档
+-[Google60](https://www.masswerk.at/keypunch/)
