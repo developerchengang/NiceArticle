@@ -9,6 +9,7 @@
 - [A gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
 - [The IBM 029 Card Punch](https://twobithistory.org/2018/06/23/ibm-029-card-punch.html)
 - [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d)
+-[图解 | 你管这破玩意叫线程池？](https://mp.weixin.qq.com/s/OKTW_mZnNJcRBrIFHONR3g)
 
 ## data structure
 
@@ -39,3 +40,24 @@
 ## JPEG
 
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/?utm_source=CSS-Weekly&utm_campaign=Issue-367&utm_medium=email)
+
+## Programming
+
+- [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+- [编程之道](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+
+## Docker
+
+- [Docker guide](https://www.robertcooper.me/docker-guide)
+
+## Go 
+
+- [Welcome to Play with Go](https://play-with-go.dev/guides.html)
+
+## Python
+
+- [Think Python](https://codingpy.com/books/thinkpython2/foreword.html)
+
+## Design Patterns
+
+-[Design Patterns](https://refactoringguru.cn/design-patterns)
