@@ -27,7 +27,7 @@
 
 - [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 
-- [Putting comments in code: the good, the bad, and the ugly](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83)
+- [Functional Programming Principles in Javascript](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
 
 ## Dependency Injection
 
@@ -60,4 +60,8 @@
 
 ## Design Patterns
 
--[Design Patterns](https://refactoringguru.cn/design-patterns)
+- [Design Patterns](https://refactoringguru.cn/design-patterns)
+
+## Linux
+
+- [ShellTutorial - Arch Linux Studio](https://archlinuxstudio.github.io/ShellTutorial/#/)
