@@ -37,17 +37,6 @@
 
 - [Dependency Injection With Koin](https://www.raywenderlich.com/9457-dependency-injection-with-koin)
 
-### Dagger
-
-- [Dagger basics](https://developer.android.com/training/dependency-injection/dagger-basics)
-- [Dagger 2 for Android Beginners](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
-- [Dependency injection with Dagger 2 – Introduction to DI](https://mirekstanek.online/dagger-1-to-2-migration-process/)
-- [Dependency injection with Dagger 2 - the API](http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/)
-- [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-- [Dependency Injection in Android with Dagger 2 and Kotlin](https://www.raywenderlich.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin)
-- [Dagger 2 Tutorial For Android: Advanced](https://www.raywenderlich.com/6583167-dagger-2-tutorial-for-android-advanced)
-- [Dagger 2 Tutorial for Android: Advanced – Part 2](https://www.raywenderlich.com/7337181-dagger-2-tutorial-for-android-advanced-part-2)
-
 ## JPEG
 
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/?utm_source=CSS-Weekly&utm_campaign=Issue-367&utm_medium=email)
