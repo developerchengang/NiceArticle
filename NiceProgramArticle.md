@@ -47,6 +47,10 @@
 - [Dependency Injection in Android with Dagger 2 and Kotlin](https://www.raywenderlich.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin)
 - [Dagger 2 Tutorial For Android: Advanced](https://www.raywenderlich.com/6583167-dagger-2-tutorial-for-android-advanced)
 - [Dagger 2 Tutorial for Android: Advanced – Part 2](https://www.raywenderlich.com/7337181-dagger-2-tutorial-for-android-advanced-part-2)
+- [ntroduction to Dagger 2, Using Dependency Injection in Android: Part 1](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b)
+- [Introduction to Dagger 2, Using Dependency Injection in Android: Part 2](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd)
+- [New Android Injector with Dagger 2 — part 1](https://iammert.medium.com/new-android-injector-with-dagger-2-part-1-8baa60152abe)
+- [New Android Injector with Dagger 2 — part 2](https://iammert.medium.com/new-android-injector-with-dagger-2-part-2-4af05fd783d0)
 
 ## JPEG
 
@@ -84,3 +88,14 @@
 - [L is for the Liskov Substitution Principle](https://academy.realm.io/posts/donn-felker-solid-part-3/)
 - [I is for the Interface Segregation Principle](https://academy.realm.io/posts/donn-felker-solid-part-4/)
 - [D is for the Dependency Inversion Principle](https://academy.realm.io/posts/donn-felker-solid-part-5/)
+
+
+## CS
+
+- [一份硬核计算机科学CS自学计划](https://github.com/spring2go/cs_study_plan)
+
+## OpenGL
+
+- [Learn OpenGL](https://learnopengl.com/Introduction)
+- [Learn OpenGL(译文)](https://learnopengl-cn.github.io/intro/)
+

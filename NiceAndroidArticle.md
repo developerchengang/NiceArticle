@@ -34,3 +34,24 @@
 - [Android DataBinding 从入门到进阶](https://juejin.cn/post/6844903609079971854)
 - [深入理解Android数据绑定库DataBinding](https://mtancode.com/2020/10/07/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Android%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E5%BA%93DataBinding/)
 
+## 安全
+
+- [Android 渗透测试学习手册 中文版](https://hanjideng.gitbooks.io/android/content/)
+
+## Custom View
+
+- [HenCoder Android 开发进阶: 自定义 View 1-1 绘制基础](https://rengwuxian.com/ui-1-1/)
+- [Creating custom and compound views in Android - Tutorial](https://www.vogella.com/tutorials/AndroidCustomViews/article.html)
+- [Handling single and multi touch on Android - Tutorial](https://www.vogella.com/tutorials/AndroidTouch/article.html#singletouch)
+- [Android自定义View篇之（一）View绘制流程](https://www.cnblogs.com/andy-songwei/p/10955062.html)
+- [Android自定义View篇之（二）Canvas常用功能](https://www.cnblogs.com/andy-songwei/p/10960012.html)
+- [Android自定义View篇之（三）Canvas绘制文字](https://www.cnblogs.com/andy-songwei/p/10968358.html)
+- [Android自定义View篇之（四）自定义View的三种实现方式及自定义属性使用介绍](https://www.cnblogs.com/andy-songwei/p/10979161.html)
+- [Android自定义View篇之（五）Android事件分发机制（上）Touch三个重要方法的处理逻辑](https://www.cnblogs.com/andy-songwei/p/10998855.html)
+- [Android自定义View篇之（六）Android事件分发机制（中）从源码分析事件分发机制](https://www.cnblogs.com/andy-songwei/p/11039252.html)
+- [Android自定义View篇之（七）Android事件分发机制（下）滑动冲突解决方案总结](https://www.cnblogs.com/andy-songwei/p/11076612.html)
+- [Android LayoutInflater原理分析，带你一步步深入了解View(一](https://blog.csdn.net/guolin_blog/article/details/12921889)
+- [Android视图绘制流程完全解析，带你一步步深入了解View(二)](https://blog.csdn.net/guolin_blog/article/details/16330267)
+- [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](https://blog.csdn.net/guolin_blog/article/details/17045157)
+- [Android自定义View的实现方法，带你一步步深入了解View(四)](https://blog.csdn.net/guolin_blog/article/details/17357967)
+
