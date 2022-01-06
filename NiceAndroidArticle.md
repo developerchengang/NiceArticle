@@ -20,14 +20,6 @@
 - [kotlin-coroutines](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 
-## Clean Architecture
-
-- [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
-
-## MVI
-
-- [MVI Architecture - Android Tutorial for Beginners - Step By Step Guide](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide)
-
 ## Data Binding
 
 - [Data Binding Overview](https://developer.android.com/topic/libraries/data-binding)
@@ -54,4 +46,43 @@
 - [Android视图绘制流程完全解析，带你一步步深入了解View(二)](https://blog.csdn.net/guolin_blog/article/details/16330267)
 - [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](https://blog.csdn.net/guolin_blog/article/details/17045157)
 - [Android自定义View的实现方法，带你一步步深入了解View(四)](https://blog.csdn.net/guolin_blog/article/details/17357967)
+
+## Memory Leak
+
+- [Android Memory Profiler: Getting Started](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started)
+- [Memory Leaks in Android](https://www.raywenderlich.com/4690472-memory-leaks-in-android)
+
+
+
+## Unit Testing
+
+- [Android Unit Testing with Mockito](https://www.raywenderlich.com/195-android-unit-testing-with-mockito)
+
+## Design Patterns and App Architectures
+
+### MVP
+
+- [Android MVP](https://www.journaldev.com/14886/android-mvp)
+- [MVP for Android: how to organize the presentation layer](https://antonioleiva.com/mvp-android/)
+- [Getting Started with MVP (Model View Presenter) on Android](https://www.raywenderlich.com/7026-getting-started-with-mvp-model-view-presenter-on-android#toc-anchor-010)
+
+### MVVM
+
+- [Android MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
+- [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
+- [MVVM and DataBinding: Android Design Patterns](https://www.raywenderlich.com/636803-mvvm-and-databinding-android-design-patterns)
+- [MVVM Architecture - Android Tutorial for Beginners - Step by Step Guide](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
+
+### Clean Architecture
+
+- [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
+
+### MVI
+
+- [MVI Architecture - Android Tutorial for Beginners - Step By Step Guide](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide)
+
+### Design Patterns
+
+- [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
+- [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
 
