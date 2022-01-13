@@ -79,10 +79,19 @@
 
 ### MVI
 
+- [应用架构指南](https://developer.android.com/jetpack/guide)
 - [MVI Architecture - Android Tutorial for Beginners - Step By Step Guide](https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide)
+- [Google 推荐使用 MVI 架构？卷起来了](https://juejin.cn/post/7048980213811642382?share_token=8f3e524e-d7b9-4f9d-bc13-31a988368ea0)
 
 ### Design Patterns
 
 - [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 - [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
+
+## Handler
+
+- [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](https://blog.csdn.net/lmj623565791/article/details/38377229)
+- [Android中Handler的使用](https://blog.csdn.net/iispring/article/details/47115879)
+- [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
+- [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 
