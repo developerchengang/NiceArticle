@@ -20,3 +20,7 @@
 
 - [Guide to Understanding Generics in Java](https://stackabuse.com/guide-to-understanding-generics-in-java)
 
+## Language features
+
+- [New language features since Java 8 to 18](https://advancedweb.hu/new-language-features-since-java-8-to-18/)
+- [Java 9 到 17 的语言特性更新](https://nanova.me/java-lang-updates/)
