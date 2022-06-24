@@ -95,3 +95,8 @@
 - [深入源码解析Android中的Handler,Message,MessageQueue,Looper](https://blog.csdn.net/iispring/article/details/47180325)
 - [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 
+## Kotlin
+
+- [Kotlin DSL 实战：像 Compose 一样写代码](https://mp.weixin.qq.com/s/azgYrWlmmRRrfOdnoeHZ7g)
+- [Migrating from LiveData to Kotlin’s Flow](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
+
