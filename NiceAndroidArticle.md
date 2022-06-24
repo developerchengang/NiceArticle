@@ -19,6 +19,7 @@
 - [破解 Kotlin 协程](https://www.bennyhuo.com/2019/04/01/basic-coroutines/)
 - [kotlin-coroutines](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 - [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
+- [Kotlin: Diving in to Coroutines and Channels](https://proandroiddev.com/kotlin-coroutines-channels-csp-android-db441400965f)
 
 ## Data Binding
 
