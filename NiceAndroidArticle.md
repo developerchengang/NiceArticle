@@ -78,6 +78,7 @@
 
 - [Kotlin Clean Architecture](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
 - [Why you need Use Cases/Interactors](https://proandroiddev.com/why-you-need-use-cases-interactors-142e8a6fe576)
+- [The “Real” Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
 
 ### MVI
 
