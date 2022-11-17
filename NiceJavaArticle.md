@@ -5,6 +5,9 @@
 ## The Java™ Tutorials
 
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/)
+- [Java程序员进阶之路](https://tobebetterjavaer.com/)
+- [Java 全栈知识体系](https://pdai.tech/)
+- [JavaGuide](https://javaguide.cn/)
 
 ## Concurrency
 
