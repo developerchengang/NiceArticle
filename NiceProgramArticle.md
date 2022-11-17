@@ -80,6 +80,7 @@
 - [runoob 设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 - [Introduction to Design Patterns](https://www.patterns.dev/posts/introduction/)
 - [永不磨灭的设计模式](https://shusheng007.top/2021/09/07/999/)
+- [掘金 Java 设计模式](https://juejin.cn/post/6993161239140499493)
 
 ## Linux
 
