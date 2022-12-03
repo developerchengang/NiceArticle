@@ -107,3 +107,7 @@
 ## Hack
 
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+
+## 加密
+
+- [一文彻底搞懂加密、数字签名和数字证书！](https://segmentfault.com/a/1190000024523772)
