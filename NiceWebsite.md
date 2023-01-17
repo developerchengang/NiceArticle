@@ -21,3 +21,5 @@
 - [Java工程师成神之路](https://hollischuang.github.io/toBeTopJavaer/#/)
 - [CS-Notes](http://www.cyc2018.xyz/)
 - [Java 虚拟机（JVM）入门教程](http://jvmtutorial.com/#/)
+- [java-design-patterns](https://java-design-patterns.com/)
+- [oodesign](https://www.oodesign.com/)
