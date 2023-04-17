@@ -23,3 +23,4 @@
 - [Java 虚拟机（JVM）入门教程](http://jvmtutorial.com/#/)
 - [java-design-patterns](https://java-design-patterns.com/)
 - [oodesign](https://www.oodesign.com/)
+- [programming notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
