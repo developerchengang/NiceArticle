@@ -24,3 +24,7 @@
 - [java-design-patterns](https://java-design-patterns.com/)
 - [oodesign](https://www.oodesign.com/)
 - [programming notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+
+## GPT
+- [The Ultimate AI Tool Kit](https://doc.clickup.com/37456139/d/h/13q28b-204/5a46c0ced275cf7)
+- [Chat GPT使用手册](https://eibot3u32o.feishu.cn/docx/E7jodtO4fosu4SxdgCrcWF1Znvd)
