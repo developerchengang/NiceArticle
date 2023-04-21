@@ -36,3 +36,4 @@
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
