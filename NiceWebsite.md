@@ -40,3 +40,6 @@
 
 ## AI
 -[Paradigms of Artificial Intelligence Programming](https://norvig.github.io/paip-lisp/#/?id=paradigms-of-artificial-intelligence-programming)
+
+## 科学上网
+-[V2Ray](https://toutyrater.github.io/)
