@@ -103,3 +103,7 @@
 - [Kotlin DSL 实战：像 Compose 一样写代码](https://mp.weixin.qq.com/s/azgYrWlmmRRrfOdnoeHZ7g)
 - [Migrating from LiveData to Kotlin’s Flow](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
 
+## Jetpack
+
+- [Simple one-liner ViewBinding in Fragments and Activities with Kotlin](https://zhuinden.medium.com/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
+
