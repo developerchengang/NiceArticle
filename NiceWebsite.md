@@ -46,3 +46,12 @@
 
 ## 算法
 -[Hello 算法](https://www.hello-algo.com/)
+
+## LLM
+-[Welcome to LLM University!](https://docs.cohere.com/docs/llmu)
+
+## Database
+-[Build Your Own Database From Scratch](https://build-your-own.org/database/)
+
+## CS
+-[计算机专业学习路线](https://hackway.org/docs/cs/intro)
