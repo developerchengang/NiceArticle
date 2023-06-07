@@ -55,3 +55,10 @@
 
 ## CS
 -[计算机专业学习路线](https://hackway.org/docs/cs/intro)
+
+## Microsoft
+-[ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+-[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+-[oT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+-[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+-[AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
