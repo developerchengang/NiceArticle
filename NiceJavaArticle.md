@@ -8,6 +8,7 @@
 - [Java程序员进阶之路](https://tobebetterjavaer.com/)
 - [Java 全栈知识体系](https://pdai.tech/)
 - [JavaGuide](https://javaguide.cn/)
+- [二哥的Java进阶之路](https://javabetter.cn/)
 
 ## Concurrency
 
