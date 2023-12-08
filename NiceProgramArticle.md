@@ -119,3 +119,9 @@
 ## Code Style
 
 - [Google Style Guides](https://google.github.io/styleguide/)
+
+## IPC
+
+- [Named Pipes](https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html)
+- [Unix Domain Sockets](https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html)
+- [Unix Signals](https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html)
