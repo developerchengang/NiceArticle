@@ -125,3 +125,7 @@
 - [Named Pipes](https://goodyduru.github.io/os/2023/09/26/ipc-named-pipes.html)
 - [Unix Domain Sockets](https://goodyduru.github.io/os/2023/10/03/ipc-unix-domain-sockets.html)
 - [Unix Signals](https://goodyduru.github.io/os/2023/10/05/ipc-unix-signals.html)
+
+## Thinking
+
+- [There's Such a Thing As Using Too Many Ifs](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
