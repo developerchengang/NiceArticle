@@ -1,0 +1,1 @@
+- [isBooleanTooLongAndComplex](https://testing.googleblog.com/2024/04/isbooleantoolongandcomplex.html)
