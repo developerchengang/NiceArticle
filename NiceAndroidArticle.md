@@ -107,3 +107,7 @@
 
 - [Simple one-liner ViewBinding in Fragments and Activities with Kotlin](https://zhuinden.medium.com/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 
+## System
+
+- [一个 Android init 进程的自述](https://mp.weixin.qq.com/s/vDYT6kCGpSxeBx0pzuDspw)
+
